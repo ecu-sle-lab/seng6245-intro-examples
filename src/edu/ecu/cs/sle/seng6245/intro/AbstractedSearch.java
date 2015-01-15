@@ -16,6 +16,5 @@ public class AbstractedSearch {
 		if (idx2 >= 0) {
 			System.out.println("Found 3 at index " + idx2 + " in array a1");
 		}
-}
-
+	}
 }
